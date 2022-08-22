@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Book &amp; Tech</description>
+    <link>
+    https://sseo42.github.io</link>
+    
+      
+      <item>
+        <title>First Cpp post</title>
+        
+          <description>&lt;p&gt;My first Cpp post&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 22 Aug 2022 20:03:00 +0900</pubDate>
+        <link>
+        https://sseo42.github.io/cpp-basic</link>
+        <guid isPermaLink="true">https://sseo42.github.io/cpp-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>First Python Post</title>
+        
+          <description>&lt;p&gt;My first Python post&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 22 Aug 2022 20:02:00 +0900</pubDate>
+        <link>
+        https://sseo42.github.io/python-basic</link>
+        <guid isPermaLink="true">https://sseo42.github.io/python-basic</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

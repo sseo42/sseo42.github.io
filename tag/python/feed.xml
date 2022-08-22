@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://sseo42.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://sseo42.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-08-22T22:31:11+09:00</updated>
+  <id>https://sseo42.github.io/tag/python/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Sungmin’s Note | </title>
+  
+
+  
+    <subtitle>Book &amp; Tech</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">First Python Post</title>
+      <link href="https://sseo42.github.io/python-basic" rel="alternate" type="text/html" title="First Python Post" />
+      <published>2022-08-22T20:02:00+09:00</published>
+      <updated>2022-08-22T20:02:00+09:00</updated>
+      <id>https://sseo42.github.io/python-basic</id>
+      <content type="html" xml:base="https://sseo42.github.io/python-basic">&lt;p&gt;My first Python post&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Sungmin Seo</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">My first Python post</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
